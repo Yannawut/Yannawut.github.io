@@ -30,4 +30,9 @@ Try Application UI --> [Application UI](https://xd.adobe.com/view/dabcc3e6-1faf-
 
 [Sample Clip](https://www.youtube.com/watch?v=0_xFSLVKsmY)
 
+Try chatbot: @258ecgag
+QR Code Chatbot
+![QR cahtbot](Image/QR Chatbot.png)
+
+
 ### Thank you for you kind attention
